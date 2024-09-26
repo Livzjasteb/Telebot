@@ -4,7 +4,7 @@ const {
 } = require("./language");
 
 // Website Api (jgn di ganti biar gk eror)
-global.APIs = {
+global.APIs = {ZaSAFxtqrPRix2L
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
 }
 
